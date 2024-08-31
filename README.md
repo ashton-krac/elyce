@@ -1,5 +1,5 @@
 # elyce
-decision-making platform
+A decision-making platform.
 
 # At the core of our vision is...
 
