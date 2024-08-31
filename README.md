@@ -3,7 +3,7 @@ decision-making platform
 
 # At the core of our vision is...
 
-Aa world where individuals and groups are empowered to make better decisions, confidently navigate complexity, and achieve meaningful outcomes. 
+A world where individuals and groups are empowered to make better decisions, confidently navigate complexity, and achieve meaningful outcomes. 
 
 We believe in fostering a mindset that embraces informed risk-taking, continuous learning, and growth. 
 
