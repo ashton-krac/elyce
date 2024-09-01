@@ -18,6 +18,7 @@ By integrating diverse decision-making frameworks and nurturing a culture of ref
 
 
 
+
 ## Way in the future...
 
 We aspire to create a global community of empowered decision-makers who approach each choice with a sense of curiosity, responsibility, and optimism.
