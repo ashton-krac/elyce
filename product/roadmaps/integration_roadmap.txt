@@ -1,0 +1,33 @@
+Google Sheets 
+Google Analytics 
+BigQuery 
+CSV upload
+Looker 
+
+Redshift 
+MySQL 
+PostgreSQL 
+
+Amplitude 
+Mixpanel 
+Snowflake
+
+
+Install Python and Flask.
+Create a new Flask application.
+Write the “Hello World” application code.
+Test the Flask application locally.
+Create a new project in Google Cloud Platform.
+Enable billing for the GCP project.
+Install the Google Cloud SDK.
+Initialize the gcloud command-line tool.
+Create an App Engine application within your GCP project.
+Configure the app.yaml file for GCP App Engine deployment.
+Deploy the Flask application to Google App Engine.
+Verify the deployment by accessing the App Engine URL.
+Register your domain “elyce.app”.
+Set up Google Cloud DNS for your domain.
+Update DNS records at your domain registrar to point to Google Cloud DNS.
+Configure and enable HTTPS by setting up SSL certificates with Google-managed SSL.
+Update your Flask app to enforce HTTPS if necessary.
+Monitor and maintain the application as needed.
