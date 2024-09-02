@@ -1,7 +1,10 @@
-# elyce
+# Elyce
+
 A decision-making platform.
 
-# At the core of our vision is...
+
+
+## At the core of our vision is...
 
 A world where individuals and groups are empowered to make better decisions, confidently navigate complexity, and achieve meaningful outcomes. 
 
@@ -13,7 +16,9 @@ We strive to inspire a sense of confidence and self-awareness in decision-makers
 
 By integrating diverse decision-making frameworks and nurturing a culture of reflection, we aim to enhance the collective wisdom of individuals and teams.
 
-# Way in the future...
+
+
+## Way in the future...
 
 We aspire to create a global community of empowered decision-makers who approach each choice with a sense of curiosity, responsibility, and optimism.
 
