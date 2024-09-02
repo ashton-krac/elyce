@@ -1,0 +1,13 @@
+runtime: python311
+entrypoint: gunicorn -b :$PORT 'app:create_app()'
+
+
+env_variables:
+  FLASK_ENV: 'production'
+
+handlers:
+- url: /static
+  static_dir: app/static
+
+- url: /.*
+  script: auto

@@ -3,7 +3,10 @@ from app import create_app
 
 @pytest.fixture
 def app():
-    app = create_app({'TESTING': True})
+    app = create_app({
+        'TESTING': True,
+        'MONGO_URI': 'mongodb://localhost:27017/mytestdb'  # Use a separate URI for testing
+    })
     yield app
 
 @pytest.fixture
