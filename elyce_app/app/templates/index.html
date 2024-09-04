@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block title %}Write About Your Goals{% endblock %}
+
+{% block content %}
+
+<div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto lg:flex lg:items-start lg:space-x-4">
+        <div class="max-w-2xl lg:mx-0">
+          <h2 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">Write about one of your goals</h2>
+          <form action="/submit" method="POST">
+            <textarea id="comment" name="comment" rows="4" class="mt-6 block w-full resize-none p-3 border border-gray-300 focus:border-blue-500 focus:ring focus:ring-blue-500 focus:ring-opacity-50 rounded-md shadow-sm" placeholder="Share an aspiration and what you hope to get out of it..."></textarea>
+            <div class="flex justify-between items-center mt-4">
+              <span class="text-gray-500">private</span>
+              <button type="submit" class="bg-black text-white hover:bg-gray-800 font-bold py-2 px-4 rounded-lg transition-colors duration-200 ease-in-out">
+                Submit
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+{% endblock %}
